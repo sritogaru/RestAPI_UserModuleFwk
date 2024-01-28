@@ -1,0 +1,30 @@
+14:24:17.795 [main] DEBUG api.tests.UserTests2Configfile - debugging.....
+14:24:17.811 [main] INFO  api.tests.UserTests2Configfile - ********** Creating user  ***************
+14:24:20.317 [main] INFO  api.tests.UserTests2Configfile - ********** User created ***************
+14:24:20.342 [main] INFO  api.tests.UserTests2Configfile - ********** get user info ***************
+14:24:20.673 [main] INFO  api.tests.UserTests2Configfile - ********** user info is displayed ***************
+14:24:20.689 [main] INFO  api.tests.UserTests2Configfile - ********** update user  ***************
+14:24:21.024 [main] INFO  api.tests.UserTests2Configfile - ********** updating user is completed  ***************
+14:24:21.347 [main] INFO  api.tests.UserTests2Configfile - ********** Checking update data of user  ***************
+14:24:21.375 [main] INFO  api.tests.UserTests2Configfile - ********** Delete user  ***************
+14:24:21.694 [main] INFO  api.tests.UserTests2Configfile - ********** User is deleted ***************
+14:34:30.754 [main] DEBUG api.tests.UserTests2Configfile - debugging.....
+14:34:30.770 [main] INFO  api.tests.UserTests2Configfile - ********** Creating user  ***************
+14:34:33.816 [main] INFO  api.tests.UserTests2Configfile - ********** User created ***************
+14:34:33.841 [main] INFO  api.tests.UserTests2Configfile - ********** get user info ***************
+14:34:34.185 [main] INFO  api.tests.UserTests2Configfile - ********** user info is displayed ***************
+14:34:34.188 [main] INFO  api.tests.UserTests2Configfile - ********** update user  ***************
+14:34:34.488 [main] INFO  api.tests.UserTests2Configfile - ********** updating user is completed  ***************
+14:34:34.789 [main] INFO  api.tests.UserTests2Configfile - ********** Checking update data of user  ***************
+14:34:34.796 [main] INFO  api.tests.UserTests2Configfile - ********** Delete user  ***************
+14:34:35.105 [main] INFO  api.tests.UserTests2Configfile - ********** User is deleted ***************
+14:57:04.419 [main] DEBUG api.tests.UserTests2Configfile - debugging.....
+14:57:04.434 [main] INFO  api.tests.UserTests2Configfile - ********** Creating user  ***************
+14:57:07.232 [main] INFO  api.tests.UserTests2Configfile - ********** User created ***************
+14:57:07.256 [main] INFO  api.tests.UserTests2Configfile - ********** get user info ***************
+14:57:07.596 [main] INFO  api.tests.UserTests2Configfile - ********** user info is displayed ***************
+14:57:07.602 [main] INFO  api.tests.UserTests2Configfile - ********** update user  ***************
+14:57:07.932 [main] INFO  api.tests.UserTests2Configfile - ********** updating user is completed  ***************
+14:57:08.249 [main] INFO  api.tests.UserTests2Configfile - ********** Checking update data of user  ***************
+14:57:08.258 [main] INFO  api.tests.UserTests2Configfile - ********** Delete user  ***************
+14:57:08.562 [main] INFO  api.tests.UserTests2Configfile - ********** User is deleted ***************

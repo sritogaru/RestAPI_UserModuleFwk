@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-05T14:57:03 EST" name="SuitePetUser" finished-at="2024-01-05T14:57:08 EST" duration-ms="5265">
+    <groups>
+    </groups>
+    <test started-at="2024-01-05T14:57:03 EST" name="Test" finished-at="2024-01-05T14:57:08 EST" duration-ms="5265">
+      <class name="api.tests.UserTests2Configfile">
+        <test-method is-config="true" signature="setup()[pri:0, instance:api.tests.UserTests2Configfile@4686afc2]" started-at="2024-01-05T14:57:03 EST" name="setup" finished-at="2024-01-05T14:57:04 EST" duration-ms="836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcreateUser(org.testng.ITestContext)[pri:1, instance:api.tests.UserTests2Configfile@4686afc2]" started-at="2024-01-05T14:57:04 EST" name="testcreateUser" finished-at="2024-01-05T14:57:07 EST" duration-ms="2802" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@563ccd31]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcreateUser -->
+        <test-method signature="testgetUser()[pri:2, instance:api.tests.UserTests2Configfile@4686afc2]" started-at="2024-01-05T14:57:07 EST" name="testgetUser" finished-at="2024-01-05T14:57:07 EST" duration-ms="340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgetUser -->
+        <test-method signature="testupdateUser()[pri:3, instance:api.tests.UserTests2Configfile@4686afc2]" started-at="2024-01-05T14:57:07 EST" name="testupdateUser" finished-at="2024-01-05T14:57:08 EST" duration-ms="649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testupdateUser -->
+        <test-method signature="testdeleteUser()[pri:4, instance:api.tests.UserTests2Configfile@4686afc2]" started-at="2024-01-05T14:57:08 EST" name="testdeleteUser" finished-at="2024-01-05T14:57:08 EST" duration-ms="307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdeleteUser -->
+      </class> <!-- api.tests.UserTests2Configfile -->
+    </test> <!-- Test -->
+  </suite> <!-- SuitePetUser -->
+</testng-results>
